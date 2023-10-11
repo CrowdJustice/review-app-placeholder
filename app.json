@@ -1,5 +1,5 @@
 {
-    "name": "crowdjustice-review",
+    "name": "legl-review",
     "stack": "container",
     "addons": ["heroku-postgresql:mini", "memcachier:dev", "cloudamqp:lemur"],
     "formation": {
